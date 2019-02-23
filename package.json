@@ -14,8 +14,8 @@
     "url": "https://github.com/gethinoakes/ngx-masonry/"
   },
   "peerDependencies": {
-    "@angular/common": "^5.0.0 || ^6.0.0",
-    "@angular/core": "^5.0.0 || ^6.0.0"
+    "@angular/common": "^5.0.0 || ^6.0.0 || ^7.0.0",
+    "@angular/core": "^5.0.0 || ^6.0.0 || ^7.0.0"
   },
   "dependencies": {
     "masonry-layout": "^4.2.0",
